@@ -104,7 +104,7 @@ The project is organized into packages based on the type and purpose of the desi
 
 **UML Diagram:**
 
-![Singleton Pattern UML Diagram](./images/singleton-pattern.png)
+![Singleton Pattern UML Diagram](./images/singleton.png)
 
 ## Structural Patterns
 
