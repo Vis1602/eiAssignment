@@ -1,0 +1,150 @@
+Oct 02, 2025 11:00:21 AM behavioral.observer.stockMarket addObserver
+INFO: Observer added: behavioral.observer.stockTrader@238e0d81
+Oct 02, 2025 11:00:21 AM behavioral.observer.stockMarket addObserver
+INFO: Observer added: behavioral.observer.stockTrader@4629104a
+Oct 02, 2025 11:00:21 AM behavioral.observer.stockMarket addObserver
+INFO: Observer added: behavioral.observer.stockTrader@27f8302d
+Oct 02, 2025 11:00:21 AM behavioral.observer.stockMarket setStockInfo
+INFO: Stock info updated: Symbol=REL, Price=2000.0
+Oct 02, 2025 11:00:21 AM behavioral.observer.stockMarket notifyObservers
+INFO: Notifying observers...
+Oct 02, 2025 11:00:21 AM behavioral.observer.stockMarket notifyObservers
+INFO: Notified observer: behavioral.observer.stockTrader@238e0d81
+Oct 02, 2025 11:00:21 AM behavioral.observer.stockMarket notifyObservers
+INFO: Notified observer: behavioral.observer.stockTrader@4629104a
+Oct 02, 2025 11:00:21 AM behavioral.observer.stockMarket notifyObservers
+INFO: Notified observer: behavioral.observer.stockTrader@27f8302d
+Oct 02, 2025 11:00:21 AM behavioral.observer.stockMarket setStockInfo
+INFO: Stock info updated: Symbol=TATA, Price=1000.0
+Oct 02, 2025 11:00:21 AM behavioral.observer.stockMarket notifyObservers
+INFO: Notifying observers...
+Oct 02, 2025 11:00:21 AM behavioral.observer.stockMarket notifyObservers
+INFO: Notified observer: behavioral.observer.stockTrader@238e0d81
+Oct 02, 2025 11:00:21 AM behavioral.observer.stockMarket notifyObservers
+INFO: Notified observer: behavioral.observer.stockTrader@4629104a
+Oct 02, 2025 11:00:21 AM behavioral.observer.stockMarket notifyObservers
+INFO: Notified observer: behavioral.observer.stockTrader@27f8302d
+Oct 02, 2025 11:00:21 AM behavioral.observer.stockMarket removeObserver
+INFO: Observer removed: behavioral.observer.stockTrader@27f8302d
+Oct 02, 2025 11:00:21 AM behavioral.observer.stockMarket setStockInfo
+INFO: Stock info updated: Symbol=REL, Price=2500.0
+Oct 02, 2025 11:00:21 AM behavioral.observer.stockMarket notifyObservers
+INFO: Notifying observers...
+Oct 02, 2025 11:00:21 AM behavioral.observer.stockMarket notifyObservers
+INFO: Notified observer: behavioral.observer.stockTrader@238e0d81
+Oct 02, 2025 11:00:21 AM behavioral.observer.stockMarket notifyObservers
+INFO: Notified observer: behavioral.observer.stockTrader@4629104a
+Oct 02, 2025 11:01:53 AM behavioral.strategy.shoppingCart setPaymentMethod
+INFO: Payment method set to: upiPayment
+Oct 02, 2025 11:01:53 AM behavioral.strategy.shoppingCart checkout
+INFO: Starting checkout with amount: 500
+Oct 02, 2025 11:01:53 AM behavioral.strategy.shoppingCart checkout
+INFO: Checkout completed successfully.
+Oct 02, 2025 11:01:53 AM behavioral.strategy.shoppingCart setPaymentMethod
+INFO: Payment method set to: cardPayment
+Oct 02, 2025 11:01:53 AM behavioral.strategy.shoppingCart checkout
+INFO: Starting checkout with amount: 250
+Oct 02, 2025 11:01:53 AM behavioral.strategy.shoppingCart checkout
+INFO: Checkout completed successfully.
+Oct 02, 2025 11:02:14 AM creational.factory.vehicleFactory createVehicle
+INFO: Creating vehicle of type: car
+Oct 02, 2025 11:02:14 AM creational.factory.vehicleFactory createVehicle
+INFO: Created a car.
+Oct 02, 2025 11:02:14 AM creational.factory.vehicleFactory createVehicle
+INFO: Creating vehicle of type: motorcycle
+Oct 02, 2025 11:02:14 AM creational.factory.vehicleFactory createVehicle
+INFO: Created a motorcycle.
+Oct 02, 2025 11:02:14 AM creational.factory.vehicleFactory createVehicle
+INFO: Creating vehicle of type: truck
+Oct 02, 2025 11:02:14 AM creational.factory.vehicleFactory createVehicle
+INFO: Created a truck.
+Oct 02, 2025 11:11:39 AM behavioral.observer.stockMarket addObserver
+INFO: Observer added: behavioral.observer.stockTrader@238e0d81
+Oct 02, 2025 11:11:39 AM behavioral.observer.stockMarket addObserver
+INFO: Observer added: behavioral.observer.stockTrader@4629104a
+Oct 02, 2025 11:11:39 AM behavioral.observer.stockMarket addObserver
+INFO: Observer added: behavioral.observer.stockTrader@27f8302d
+Oct 02, 2025 11:11:39 AM behavioral.observer.stockMarket setStockInfo
+INFO: Stock info updated: Symbol=REL, Price=2000.0
+Oct 02, 2025 11:11:39 AM behavioral.observer.stockMarket notifyObservers
+INFO: Notifying observers...
+Oct 02, 2025 11:11:39 AM behavioral.observer.stockMarket notifyObservers
+INFO: Notified observer: behavioral.observer.stockTrader@238e0d81
+Oct 02, 2025 11:11:39 AM behavioral.observer.stockMarket notifyObservers
+INFO: Notified observer: behavioral.observer.stockTrader@4629104a
+Oct 02, 2025 11:11:39 AM behavioral.observer.stockMarket notifyObservers
+INFO: Notified observer: behavioral.observer.stockTrader@27f8302d
+Oct 02, 2025 11:11:39 AM behavioral.observer.stockMarket setStockInfo
+INFO: Stock info updated: Symbol=TATA, Price=1000.0
+Oct 02, 2025 11:11:39 AM behavioral.observer.stockMarket notifyObservers
+INFO: Notifying observers...
+Oct 02, 2025 11:11:39 AM behavioral.observer.stockMarket notifyObservers
+INFO: Notified observer: behavioral.observer.stockTrader@238e0d81
+Oct 02, 2025 11:11:39 AM behavioral.observer.stockMarket notifyObservers
+INFO: Notified observer: behavioral.observer.stockTrader@4629104a
+Oct 02, 2025 11:11:39 AM behavioral.observer.stockMarket notifyObservers
+INFO: Notified observer: behavioral.observer.stockTrader@27f8302d
+Oct 02, 2025 11:11:39 AM behavioral.observer.stockMarket removeObserver
+INFO: Observer removed: behavioral.observer.stockTrader@27f8302d
+Oct 02, 2025 11:11:39 AM behavioral.observer.stockMarket setStockInfo
+INFO: Stock info updated: Symbol=REL, Price=2500.0
+Oct 02, 2025 11:11:39 AM behavioral.observer.stockMarket notifyObservers
+INFO: Notifying observers...
+Oct 02, 2025 11:11:39 AM behavioral.observer.stockMarket notifyObservers
+INFO: Notified observer: behavioral.observer.stockTrader@238e0d81
+Oct 02, 2025 11:11:39 AM behavioral.observer.stockMarket notifyObservers
+INFO: Notified observer: behavioral.observer.stockTrader@4629104a
+Oct 02, 2025 11:11:41 AM behavioral.strategy.shoppingCart setPaymentMethod
+INFO: Payment method set to: upiPayment
+Oct 02, 2025 11:11:41 AM behavioral.strategy.shoppingCart checkout
+INFO: Starting checkout with amount: 500
+Oct 02, 2025 11:11:41 AM behavioral.strategy.shoppingCart checkout
+INFO: Checkout completed successfully.
+Oct 02, 2025 11:11:41 AM behavioral.strategy.shoppingCart setPaymentMethod
+INFO: Payment method set to: cardPayment
+Oct 02, 2025 11:11:41 AM behavioral.strategy.shoppingCart checkout
+INFO: Starting checkout with amount: 250
+Oct 02, 2025 11:11:41 AM behavioral.strategy.shoppingCart checkout
+INFO: Checkout completed successfully.
+Oct 02, 2025 11:11:44 AM creational.factory.vehicleFactory createVehicle
+INFO: Creating vehicle of type: car
+Oct 02, 2025 11:11:44 AM creational.factory.vehicleFactory createVehicle
+INFO: Created a car.
+Oct 02, 2025 11:11:44 AM creational.factory.vehicleFactory createVehicle
+INFO: Creating vehicle of type: motorcycle
+Oct 02, 2025 11:11:44 AM creational.factory.vehicleFactory createVehicle
+INFO: Created a motorcycle.
+Oct 02, 2025 11:11:44 AM creational.factory.vehicleFactory createVehicle
+INFO: Creating vehicle of type: truck
+Oct 02, 2025 11:11:44 AM creational.factory.vehicleFactory createVehicle
+INFO: Created a truck.
+Oct 02, 2025 11:11:45 AM creational.singleton.configurationManager <init>
+INFO: Default configurations initialized.
+Oct 02, 2025 11:11:45 AM creational.singleton.configurationManager getInstance
+INFO: ConfigurationManager instance created.
+Oct 02, 2025 11:11:45 AM creational.singleton.configurationManager getInstance
+INFO: ConfigurationManager instance already exists.
+Oct 02, 2025 11:11:45 AM creational.singleton.configurationManager setApiKey
+INFO: API key updated.
+Oct 02, 2025 11:11:46 AM structural.adapter.mediaAdapter <init>
+INFO: Initializing mediaAdapter with audioType: mp4
+Oct 02, 2025 11:11:46 AM structural.adapter.mediaAdapter <init>
+INFO: mp4Player initialized.
+Oct 02, 2025 11:11:46 AM structural.adapter.mediaAdapter play
+INFO: Playing file: video.mp4 with audioType: mp4
+Oct 02, 2025 11:11:46 AM structural.adapter.mediaAdapter play
+INFO: Played using mp4Player.
+Oct 02, 2025 11:11:46 AM structural.adapter.mediaAdapter <init>
+INFO: Initializing mediaAdapter with audioType: vlc
+Oct 02, 2025 11:11:46 AM structural.adapter.mediaAdapter <init>
+INFO: vlcPlayer initialized.
+Oct 02, 2025 11:11:46 AM structural.adapter.mediaAdapter play
+INFO: Playing file: movie.vlc with audioType: vlc
+Oct 02, 2025 11:11:46 AM structural.adapter.mediaAdapter play
+INFO: Played using vlcPlayer.
+Oct 02, 2025 11:11:47 AM structural.decorator.CoffeeDecorator <init>
+INFO: CoffeeDecorator initialized with: SimpleCoffee
+Oct 02, 2025 11:11:47 AM structural.decorator.CoffeeDecorator <init>
+INFO: CoffeeDecorator initialized with: MilkDecorator
+Oct 02, 2025 11:11:47 AM structural.decorator.CoffeeDecorator <init>
+INFO: CoffeeDecorator initialized with: SimpleCoffee
