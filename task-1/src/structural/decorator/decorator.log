@@ -1,0 +1,8 @@
+Oct 02, 2025 10:54:46 AM structural.decorator.CoffeeDecorator <clinit>
+INFO: Logging initialized for CoffeeDecorator class.
+Oct 02, 2025 10:54:46 AM structural.decorator.CoffeeDecorator <init>
+INFO: CoffeeDecorator initialized with: SimpleCoffee
+Oct 02, 2025 10:54:46 AM structural.decorator.CoffeeDecorator <init>
+INFO: CoffeeDecorator initialized with: MilkDecorator
+Oct 02, 2025 10:54:46 AM structural.decorator.CoffeeDecorator <init>
+INFO: CoffeeDecorator initialized with: SimpleCoffee
