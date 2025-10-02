@@ -16,6 +16,12 @@ The following design patterns are implemented and demonstrated:
     * Observer
     * Strategy
 
+This project is built on a foundation of robust and professional engineering practices to ensure reliability and performance.
+
+* **Centralized Logging:** Uses `java.util.logging` for detailed runtime tracing and error diagnostics.
+* **Robust Exception Handling:** Implements comprehensive `try-catch` blocks, input validation, and defensive checks to ensure graceful error handling and prevent crashes.
+* **Performance Optimised:** Employs efficient data structures (e.g., `HashSet` for O(1) obstacle lookups) and clean algorithms to ensure responsive execution.
+
 ## Project Structure
 
 The project is organized into packages based on the type and purpose of the design patterns:
@@ -31,6 +37,11 @@ The project is organized into packages based on the type and purpose of the desi
     * `strategy`: Shopping cart payment example.
 * `task2.*`: A standalone Mars Rover simulator demonstrating the Command and Composite patterns.
 
+## Code Quality & Engineering
+
+* **Centralized Logging:** Uses `java.util.logging` for detailed runtime tracing and error diagnostics.
+* **Robust Exception Handling:** Implements comprehensive `try-catch` blocks, input validation, and defensive checks to ensure graceful error handling and prevent crashes.
+* **Performance Optimised:** Employs efficient data structures (e.g., `HashSet` for O(1) lookups).
 
 ## Behavioral Patterns
 
