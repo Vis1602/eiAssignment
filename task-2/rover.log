@@ -1,0 +1,17 @@
+Oct 02, 2025 3:07:21 PM task2.Main configureLogger
+INFO: Logging configuration set up successfully.
+Oct 02, 2025 3:07:21 PM task2.Main main
+INFO: Starting the Mars Rover Program
+Oct 02, 2025 3:07:39 PM task2.Main main
+SEVERE: Unexpected error occurred.
+java.util.NoSuchElementException
+	at java.base/java.util.Scanner.throwFor(Scanner.java:945)
+	at java.base/java.util.Scanner.next(Scanner.java:1602)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2267)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2221)
+	at task2.Main.readValidInt(Main.java:157)
+	at task2.Main.main(Main.java:27)
+	at MainMenu.main(MainMenu.java:57)
+
+Oct 02, 2025 3:07:39 PM task2.Main main
+INFO: Scanner closed. Program terminated.
